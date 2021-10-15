@@ -18,4 +18,5 @@ Create UI for results with ability to sort by different metrics
 Query nasfaq for more accurate statistics for whether a coin adjusted up or down the previous adjustment  
 Integrating sub gains into results  
 Allow script to be run at any point of the day, showing only Holos who have updated  
+Clean up and move code to a consolidated Python file  
 Future update: query Youtube API to Count views of videos from after Poi update cutoff to get buy/sell predictions as soon as possible at post-adjustment  
