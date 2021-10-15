@@ -1,5 +1,5 @@
 # nasfaq-tools
-Uses Python 3.6.9, based on TFT's Nasfaq helpers
+Uses Python 3.6.9, optimized for Google Colab, based on TFT's Nasfaq helpers
 
 Queries HoloPoi API and Nasfaq to compare number of views gained each day
 
