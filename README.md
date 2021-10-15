@@ -11,6 +11,12 @@ based on their performance today vs two days ago. Also displays Holos that have 
 
 Results table shows Holo name, percent difference from previous day, views gained today, views gained yesterday, views gained two days ago, and average views for the past week.
 
+<b>Usage:</b>
+
+Download .ipynb file and import into Google Colab  
+Run all anytime after 0:00 UTC for results for following adjustment  
+Check results in the tables at the bottom, make your own informed decisions based on the data, current trends (oversell/buy), and future streams/events  
+
 <b>TO-DO:</b>
 
 Fix issue where days with negative views don't display correct percent difference  
